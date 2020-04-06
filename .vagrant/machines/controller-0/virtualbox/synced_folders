@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/root/Kubernetes/single_node_k8s_with_vagrant_for_ubuntu","disabled":false,"__vagrantfile":true}}}
